@@ -68,7 +68,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <Flex alignItems="center" justifyContent="center" flexDir="column" height="100vh">
+      <Flex alignItems="center" justifyContent="center" flexDir="column" height="100vh" padding="8px">
         <Container
           maxW="container.sm"
           bg="white"
